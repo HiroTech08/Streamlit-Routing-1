@@ -1,0 +1,22 @@
+[[pages]]
+path = "pages/home.py"
+name = "Home"
+icon = "🏠"
+
+[[pages]]
+path = "pages/page1.py"
+name = "Book1"
+icon = ":books:"
+url_path = "my_book1" 
+
+[[pages]]
+path = "pages/page2.py"
+name = "Book2"
+icon = ":books:"
+url_path = "my_book2" 
+
+[[pages]]
+path = "pages/page3.py"
+name = "Book3"
+icon = ":books:"
+url_path = "my_book3" 
